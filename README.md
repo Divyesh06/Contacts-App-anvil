@@ -3,6 +3,7 @@
 This demonstrates integrating native Android/IOS functionalities with an Anvil app.
 
 ## Files to check out
+The core logic for this app can be understood in the following files
 
 - `App.js`
 - `anvil_app_callables.js`
