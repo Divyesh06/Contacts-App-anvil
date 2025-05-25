@@ -20,7 +20,7 @@ You can test the app on an Android device by downloading the Apk from - https://
 * Download the Expo Go app from the Play Store/App Store
 * Clone the repository by running this on your terminal
 ```bash
-git clone https://github.com/Divyesh06/AnvilContactsApp.git
+git clone https://github.com/Divyesh06/anvil-contacts-app.git AnvilContactsApp
 cd AnvilContactsApp
 ```
 * Install all dependencies
