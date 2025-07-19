@@ -33,3 +33,7 @@ npm start
 ```
 
 * Scan the QR code you see on your terminal with the Expo Go app
+
+## Anvil App Code
+
+The source code for the Anvil part can be viewed at https://anvil.works/build#clone:EAQ4Q5DPGHR7J2AB=RSJCGW6JLJB62WRDJYIRVCVR
